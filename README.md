@@ -1,6 +1,6 @@
 # Algoritmo para Predizer Preço de Imóvel na Cidade do Rio de Janeiro.
 
-Esse projeto mostra como dos dados foram preparados, tratados e importados através de um arquivo raiz no formado json. 
+Esse projeto mostra todo o pipeline de preparação, treinamento e aplicação de um modelo de Machine Learning, cujo dataset encontra-se no formato json.
 
 Nesse projeto é utilizado a Regressão Linear através de 3 técnicas: Regressão Linear, Árvore de Decisão e Florestas Aleatórias. Em seguida dos três algoritmos são comparados através das métricas R², Erro Quadrado Médio(EQM) e Raiz Quadrada do Erro Quadrado Médio(EQM²). 
 
