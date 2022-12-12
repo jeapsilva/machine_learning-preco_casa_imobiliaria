@@ -1,2 +1,2 @@
-# ML_Precificacao_Casas_RJ
-Algoritmo que utiliza LinearRegressio, DecisionTree e RandomForest
+# Algoritmo para Predizer Preço de Imóvel na Cidade do Rio de Janeiro
+Algoritmo que utiliza LinearRegression, DecisionTree e RandomForest
