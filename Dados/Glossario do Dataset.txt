@@ -1,0 +1,21 @@
+    customerID                   Identificação do imóvel no portal;
+    source                       Fonte de Coleta do dados;
+    types_unit                   Tipo de imóvel;
+    types_usage                  Tipo de utilização do imóvel;
+    address_city                 Cidade de localização do imóvel;
+    address_location_lon         Longitude (longitude, decimal);
+    address_location_lat         Latitude (latitude, decimal);
+    address_zone                 Zona de subdivisão da cidade;
+    address_neighborhood         Nome do Bairro do imóvel (bairro);
+    prices_price                 Preço do Imóvel (preco, em BRL)
+    prices_tax_iptu              Valor cobrado do IPTU;
+    prices_tax_condo             Valor cobrado da taxa de condomínio;
+    features_bedrooms            Número de dormitórios (quartos);
+    features_bathrooms           Número de banheiros;
+    features_suites              Número de suítes (suítes);
+    features_parkingSpaces       Número de vagas de garagem (vagas);
+    features_usableAreas         Área útil do apartamento;
+    features_totalAreas          Área total do apartamento;
+    features_floors              Tipo de piso;
+    features_unitsOnTheFloor     Andar do apartamento;
+    features_unitFloor           Apartamento no Térreo.
