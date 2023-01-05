@@ -8,4 +8,4 @@ Feito isso, o algoritmo de Árvore de Decisão e Floresta Aleatória são otimiz
 
 Por fim, após o modelo final ser otimizado com os hiperparâmetros testados na validação cruzada e no RandomSearchCV, o modelo é exportado para que possa ser utilizado para predições no futuro. Vale ressaltar que salvar esse modelo foi importante pois a otimização demorou um tempo e exigiu um poder computacional. 
 
-Além de exportar o modelo, foi criado também uma interface para input das variáveis necessários para predizer o preço. Desse modo o algoritmo pode ser utilizado a partir de um botão "CALCULAR", dando liberdade para o usuário que queira utilizar o código, mas não tenha tanto conhecimento sobre a programação envolvida.
+Além de exportar o modelo, também foi criado uma interface para input das variáveis necessários para predizer o preço. Desse modo o algoritmo pode ser utilizado a partir de um botão "CALCULAR", dando liberdade para o usuário que queira utilizar o código, mas não tenha tanto conhecimento sobre a programação envolvida.
